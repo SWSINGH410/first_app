@@ -1,1 +1,3 @@
-Create firs streamlit_app.py
+import streamlit
+
+streamlit.title('New Healthy Diner')
