@@ -48,7 +48,7 @@ except URLError as e:
 
 # output as table
 
-streamlit.stop()
+
 
 
 streamlit.header("View our Fruit List - Add your Favourites!")
